@@ -59,3 +59,6 @@ Looks like:
 ```
     > miner.start()
 ```
+5. For Exchanges
+
+https://github.com/ethereum/wiki/wiki/JSON-RPC#json-rpc-methods
