@@ -23,7 +23,11 @@ As dev,
 mkdir -p ~/go/src/github.com`
 ```
 
-Put Yocoin15 to `/home/dev/go/src/github.com`
+Put Yocoin15 to `/home/dev/go/src/github.com`:
+
+```bash
+/usr/lib/go-1.9/bin/go get github.com/Yocoin15/Yocoin_Sources
+```
 
 # Building sources
 
