@@ -34,7 +34,7 @@ Put Yocoin15 to `/home/dev/go/src/github.com`:
 ```bash
 su - dev
 cd ~/go/src/github.com/Yocoin15/Yocoin_Sources
-/usr/lib/go-1.9/bin/go build -o ~/test cmd/yocoin/*.go
+/usr/lib/go-1.9/bin/go build -o ~/yocoin cmd/yocoin/*.go
 ```
 
 Looks like:
